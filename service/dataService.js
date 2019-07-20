@@ -7,15 +7,7 @@ const db = low(adapter);
 function dataService() {
   // Set some defaults (required if your JSON file is empty)
   db.defaults(
-    { cartItems: 
-      [
-        {
-          name: 'puppy',
-          quantity: 2,
-          price: 100,
-          id: 1
-        }
-      ], 
+    { cartItems: [], 
       availableItems: [
         {
           id: 1,
