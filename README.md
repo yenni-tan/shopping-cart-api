@@ -1,6 +1,5 @@
 # Shopping Cart API
-Shopping Cart API
-
+Shopping Cart API using Node.js & Express.
 
 ## Development server
 Run `npm i` to install dependencies.
