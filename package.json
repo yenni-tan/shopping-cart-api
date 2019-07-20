@@ -1,0 +1,25 @@
+{
+  "name": "shopping-cart-api",
+  "version": "1.0.0",
+  "description": "Shopping Cart API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenni-tan/shopping-cart-api.git"
+  },
+  "author": "= <=>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenni-tan/shopping-cart-api/issues"
+  },
+  "homepage": "https://github.com/yenni-tan/shopping-cart-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http-status-codes": "^1.3.2",
+    "lowdb": "^1.0.0"
+  }
+}
